@@ -1,0 +1,20 @@
+{
+  "name": "cek_eod",
+  "version": "1.0.0",
+  "description": "NodeJs Tool For Checking an EOD file by zackbackya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zackbackya",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.0.0",
+    "fast-glob": "^3.2.11",
+    "findit": "^2.0.0",
+    "glob": "^8.0.3",
+    "node-cron": "^3.0.1",
+    "nodemon": "^2.0.18",
+    "oracledb": "^5.4.0"
+  }
+}
